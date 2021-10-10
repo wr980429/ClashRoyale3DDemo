@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 46fb30a5c6ec5074eab6c26ff35350fb
+  m_SerializeEntries:
+  - m_GUID: 93ddf5fff26bcb642a6f1f94462963b2
+    m_Address: Archer Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f7e6e31c5324d874db515c8ca4922190
+    m_Address: Archer Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3d7094a1663ab0a44ab8e11c1defd922
+    m_Address: Warrior Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 36e93c435d1648a4c86d516057a9cbe2
+    m_Address: Warrior Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 62fd5e501abef4d188f123698eca5c92, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aea2408d60e397e498903b6fcd01d14d, type: 2}
+    - {fileID: 11400000, guid: b864e575893bf1d49b1165f750672284, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eec4882d68a9346b3b5f8ecf1e38a534, type: 3}
+  m_Name: Asset Graph
+  m_EditorClassIdentifier: 
+  m_allNodes: []
+  m_allConnections:
+  - m_id: 04dfd383-7673-4f20-b959-2297e6c22a68
+    m_fromNodeId: 2d378194-3c79-4ac5-bdfb-0ad76579deee
+    m_fromNodeConnectionPointId: 560d8606-fdea-4e3a-a6ea-2014a4049299
+    m_toNodeId: f12d3a50-4706-495c-ab68-76c77a318490
+    m_toNodeConnectionPoiontId: 67996cdf-27ea-40df-bf1d-deaa74326cff
+    m_label: +
+  m_lastModified: 132599041444441882
+  m_version: 2
+  m_graphDescription: 
+  m_useAsAssetPostprocessor: 0
+  m_graphExecOrderPriority: 0

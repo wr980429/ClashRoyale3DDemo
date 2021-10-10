@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: 562d8e7ab6943e946944f4685958bbcc
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b7ca62a08cd15ea48bbdad88e2d16bb7
+    m_importFrom: Assets/_Tutorials/Addressables/LoadTest.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62fd5e501abef4d188f123698eca5c92
+    m_importFrom: Assets/AddressableAssetsData/AddressableAssetSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60c790acfdb667546b50a5a2252885be
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Packed Assets.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 949f8ba9225c0da4bb958c96f04e7fa8
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/Packed Assets_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab796028cdf700b4c85f82a4e596d011
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/Packed Assets_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000009000000000000000
+    m_importFrom: ProjectSettings/QualitySettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88360360e652a42d7b3cd3b092832def
+    m_importFrom: Assets/Scripts/DeckLoader.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 99a107732cc120b4aa980e7d19b03ac1
+    m_importFrom: Assets/_Tutorials/Addressables.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ff2a612b11a848bea0a334b912e05f8
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Local.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: edacb952495b841c1a7be48caf1a581d
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/151328d13c16947b8b2df2d555312652_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b35972a3ff46a324fa4493e7d03c6708
+    m_importFrom: Assets/AddressableAssetsData/Android/addressables_content_state.bin
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6837be158ef96469ebbd605b30aacc8b
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/c0a24a5ceecba4908b51823061e9bc06_ContentUpdateGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c1ed6785db0842debb12aef61e6287c
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/151328d13c16947b8b2df2d555312652_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 14d147e8867c34555a451962683b47b3
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Remote.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87d5a8b92ffca442e9c985e12799c883
+    m_importFrom: Assets/AddressableAssetsData/AssetGroups/Schemas/c0a24a5ceecba4908b51823061e9bc06_BundledAssetGroupSchema.asset
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2
